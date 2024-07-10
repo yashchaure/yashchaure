@@ -36,8 +36,8 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,bootstrap,css,html,express,emotion,figma,firebase,git,github,js,less,sass,tailwind,materialui,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,postman,react,redux,threejs" />
+  <a align="center" href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=babel,bootstrap,css,html,express,emotion,figma,firebase,git,github,js,less,sass,tailwind,materialui,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,postman,react,redux,threejs" />
   </a>
 </p>
 </p>
