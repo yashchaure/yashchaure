@@ -5,22 +5,20 @@
   <img src="https://komarev.com/ghpvc/?username=yashchaure&label=Profile%20views&color=0e75b6&style=flat" alt="yashchaure" />
 </p>
 
-- 🔭 I’m currently working on **hooks.**
-
 - 🌱 I’m currently learning **Advanced React patterns and hooks.**
 
 - 🤝 I’m looking for help with **Open-source MERN projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashchaure?tab=repositories](https://github.com/yashchaure?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/yashchaure](https://github.com/yashchaure?tab=repositories)
 
 - 💬 Ask me about **Full-stack development with the MERN stack.**
 
 - 📫 How to reach me **yashchaure212@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1z7HLmHNm6LUV1KbA0zbhJEMe9hs7qUYH/view?usp=sharing)
+- 📄 Know about my experiences [Check My Resume Here](https://drive.google.com/file/d/1z7HLmHNm6LUV1KbA0zbhJEMe9hs7qUYH/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/yash-chaure-40129226a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -99,17 +97,17 @@
   </a> 
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="center">Support:</h3>
 <p>
   <a href="https://ko-fi.com/yashchaure212">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
+    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
   </a>
 </p>
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashchaure&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="yashchaure" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashchaure&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="yashchaure" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashchaure&show_icons=true&theme=tokyonight&locale=en" alt="yashchaure" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashchaure&theme=dark" alt="yashchaure" /></p>
