@@ -36,17 +36,14 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <p align="center">
-  <a align="center" href="https://skillicons.dev">
+<div align="center">
+    <a align="center" href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=babel,bootstrap,css,html,express,emotion,figma,firebase,git,github,js,less,sass,tailwind,materialui,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,postman,react,redux,threejs" />
   </a>
+</div>
 </p>
 </p>
-<img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
-  alt="Cat with Tears of Joy"
-  width="25"
-  height="25"
-/>
+
 
 <h3 align="center">Support:</h3>
 <p align="center">
