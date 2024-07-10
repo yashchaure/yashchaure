@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Chaure</h1>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=yashchaure&label=Profile%20views&color=0e75b6&style=flat" alt="yashchaure" />
 </p>
 
@@ -92,6 +92,12 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 </p>
 
 <h3 align="center">Support:</h3>
@@ -107,4 +113,4 @@
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashchaure&show_icons=true&theme=tokyonight&locale=en" alt="yashchaure" /></p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashchaure&theme=dark" alt="yashchaure" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashchaure&theme=tokyonight" alt="yashchaure" /></p>
