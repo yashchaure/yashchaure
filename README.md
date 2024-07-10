@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Chaure</h1>
-<h3 align="center">Full-Stack MERN Developer | Web Enthusiast | Lifelong Learner</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashchaure&label=Profile%20views&color=0e75b6&style=flat" alt="yashchaure" />
 </p>
+
+<h3 align="center">Full-Stack MERN Developer  |  Web Enthusiast  |  Lifelong Learner</h3>
 
 - 🌱 I’m currently learning **Advanced React patterns and hooks.**
 
@@ -20,7 +20,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/yash-chaure-40129226a" target="blank">
-    <img style={margin:"20px"} align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img style={margin:"200px"} align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/26320232/yash-chaure" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
